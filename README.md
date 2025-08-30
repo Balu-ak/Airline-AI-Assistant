@@ -66,4 +66,4 @@ Before running the application, ensure you have the following installed:
 Once the setup is complete, you can run the Airline AI Assistant:
 
 ```bash
-python app.py
+python Airline_AI_Assistant.py
